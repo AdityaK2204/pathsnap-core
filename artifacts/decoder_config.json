@@ -1,0 +1,10 @@
+{
+  "beta": 1.0,
+  "emission_weight": 0.5,
+  "prob_floor": 0.0001,
+  "selection": "pooled observation-level Top-1 on training trips with out-of-fold probabilities",
+  "train_top1_hmm": 0.9461768613430401,
+  "train_top1_classifier_only": 0.9025610006372798,
+  "gap_break_s": 120.0,
+  "gap_break_m": 3000.0
+}
