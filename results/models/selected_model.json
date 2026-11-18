@@ -1,0 +1,6 @@
+{
+  "selected_model": "lightgbm",
+  "rule": "highest mean CV top-1 accuracy, then lowest CV log loss",
+  "cv_top1": 0.900152025456585,
+  "cv_log_loss": 0.06257984968543753
+}
